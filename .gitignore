@@ -129,3 +129,11 @@ dmypy.json
 .pyre/
 /.project
 /.pydevproject
+
+.idea/.gitignore
+.idea/HA-search-degrees.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.settings/org.eclipse.ltk.core.refactoring.prefs
